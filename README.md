@@ -1,4 +1,4 @@
-- 👋 Hell0 there, I’m Chaitanya (@chai512)
+- 👋 Hello there, I’m Chaitanya (@chai512)
 - 👀 I’m interested in builiding system software using C++ and C. I am interested in working with modern C++.
 - 🌱 I’m currently learning modern C++ in detail. Fine tuning my system design knowledge
 - 💞️ I’m looking to collaborate on open source projects using C++ or C
